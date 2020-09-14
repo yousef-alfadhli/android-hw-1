@@ -1,0 +1,14 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+    int x = 18;
+    String name = "yousef ";
+        
+         if (x >=18){
+          System.out.println( name +"congrats you got your drivers licence");
+          }else{
+          System.out.println("sorry you can't apply for drivers licence right now wait a few more years and apply again");
+          }
+     }
+}
